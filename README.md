@@ -12,6 +12,24 @@ Instead of relying on multiple offline spreadsheets, the system centralizes resu
 
 The system automates calculations, reduces manual errors, improves collaboration, and protects confidential student records through controlled access.
 
+## Version
+
+### Version 1.0
+- Excel VBA authentication
+- Automated result computation
+- Microsoft Teams integration
+- SharePoint document management
+- Report card generation
+- Performance analytics
+- Behavioral reporting
+
+### Planned Version 2.0
+- Microsoft Entra ID authentication
+- Single Sign-On (SSO)
+- Role-based access control
+- Audit logging
+- Enhanced reporting dashboard
+
 ## Project Objectives
 
 The primary objectives of this project were to:
@@ -24,6 +42,14 @@ The primary objectives of this project were to:
 - Store result files securely in SharePoint.
 - Standardize report card generation across the school.
 - Improve the speed and accuracy of result preparation.
+
+## Features
+
+The system includes a wide range of academic and administrative features designed to simplify result processing and improve collaboration.
+
+For the complete feature list, see:
+
+- [System Features](docs/Features.md)
 
 
 - Teacher
