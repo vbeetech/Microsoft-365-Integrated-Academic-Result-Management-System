@@ -17,6 +17,19 @@
 
 A secure Microsoft 365-integrated Student Result Management System built with Microsoft Excel, Microsoft Teams, and SharePoint to automate academic result processing while ensuring authorized access for staff.
 
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Project Objectives](#project-objectives)
+- [System Features](#system-features)
+- [System Workflow](#system-workflow)
+- [Technologies Used](#technologies-used)
+- [Business Benefits](#business-benefits)
+- [Security & Access Control](#security--access-control)
+- [Challenges Addressed](#challenges-addressed)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
 ---
 
 ## Overview
