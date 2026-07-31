@@ -6,6 +6,15 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+## 🚀 Project Highlights
+
+- Secure login and role-based access for authorized staff.
+- Microsoft Teams and SharePoint integration for centralized collaboration.
+- Automated result computation, grading, and report card generation.
+- Class broadsheet generation with analytics and performance insights.
+- Behavioural assessment and general comment management.
+- Built with Microsoft Excel VBA for schools using Microsoft 365.
+
 A secure Microsoft 365-integrated Student Result Management System built with Microsoft Excel, Microsoft Teams, and SharePoint to automate academic result processing while ensuring authorized access for staff.
 
 ---
