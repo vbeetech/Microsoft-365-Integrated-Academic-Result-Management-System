@@ -1,4 +1,10 @@
-# Student Result Management System
+# Microsoft 365 Integrated Academic Result Management System
+
+![Excel VBA](https://img.shields.io/badge/Excel-VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A secure Microsoft 365-integrated Student Result Management System built with Microsoft Excel, Microsoft Teams, and SharePoint to automate academic result processing while ensuring authorized access for staff.
 
