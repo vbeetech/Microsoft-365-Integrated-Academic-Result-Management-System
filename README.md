@@ -139,6 +139,10 @@ The implementation of this system has provided several operational benefits:
 
 ![Score Entry](screenshots/score-entry.png)
 
+### Student Information Page
+
+![Student Information](screenshots/info-page.png)
+
 ## Security & Access Control
 
 The system was designed with security and controlled access as a core requirement to protect confidential student academic records.
