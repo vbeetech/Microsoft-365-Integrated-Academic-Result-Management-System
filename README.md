@@ -131,6 +131,10 @@ The implementation of this system has provided several operational benefits:
 
 ![Behaviour Report](screenshots/behaviour-report.jpg)
 
+### Class Broadsheet
+
+![Class Broadsheet](screenshots/broadsheet.png)
+
 ## Security & Access Control
 
 The system was designed with security and controlled access as a core requirement to protect confidential student academic records.
