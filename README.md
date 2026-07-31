@@ -115,6 +115,9 @@ The implementation of this system has provided several operational benefits:
 
 ![Login Page](screenshots/login-page.png)
 
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Security & Access Control
 
