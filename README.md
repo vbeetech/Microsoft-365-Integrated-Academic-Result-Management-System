@@ -110,6 +110,12 @@ The implementation of this system has provided several operational benefits:
    - Averages
 6. Completed results are reviewed before publication.
 
+## Screenshots
+### Login Page
+
+![Login Page](screenshots/login-page.png)
+
+
 ## Security & Access Control
 
 The system was designed with security and controlled access as a core requirement to protect confidential student academic records.
