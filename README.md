@@ -125,6 +125,18 @@ The implementation of this system has provided several operational benefits:
 
 - ## System Workflow
 
+```mermaid
+flowchart LR
+    A[Teacher Login] --> B[Microsoft Teams]
+    B --> C[SharePoint Storage]
+    C --> D[Excel VBA Result System]
+    D --> E[Automatic Processing]
+    E --> F[Student Report Cards]
+    E --> G[Class Broadsheet]
+    E --> H[Result Analytics]
+    E --> I[Behaviour & Comments]
+```
+
 1. Staff signs in using their Microsoft 365 account.
 2. Staff accesses the Result Management System through Microsoft Teams.
 3. The workbook is securely stored in SharePoint.
