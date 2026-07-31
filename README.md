@@ -123,6 +123,10 @@ The implementation of this system has provided several operational benefits:
 
 ![Student Report Card](screenshots/report-card.jpg)
 
+### Result Analysis Dashboard
+
+![Result Analysis](screenshots/analytics.jpg)
+
 ## Security & Access Control
 
 The system was designed with security and controlled access as a core requirement to protect confidential student academic records.
